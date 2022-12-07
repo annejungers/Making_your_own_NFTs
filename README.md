@@ -5,7 +5,7 @@ Making your own NFTs
 
 For this lab we will be making an NFT collection.
 You can create your own collection, but be sure not to spend too much time on it!
-You can also use this collection [https://ipfs.io/QmdMgy9N1qCMmbYrQJQyYvyuC1TqiuATMbPgBS3wRmMVuX]()
+You can also use this collection [https://ipfs.io/QmdMgy9N1qCMmbYrQJQyYvyuC1TqiuATMbPgBS3wRmMVuX](https://ipfs.io/QmdMgy9N1qCMmbYrQJQyYvyuC1TqiuATMbPgBS3wRmMVuX)
 
 
 Requirements
@@ -23,4 +23,4 @@ Requirements
 (don't place any personal information in there! it is public for everyone to see!)
 
 Things to think about: 
-Are you compliant? Use a validator like https://tofunft.com/tools/validator
+Are you compliant? Use a validator like [https://tofunft.com/tools/validator](https://tofunft.com/tools/validator)
