@@ -5,7 +5,7 @@ Making your own NFTs
 
 For this lab we will be making an NFT collection.
 You can create your own collection, but be sure not to spend too much time on it!
-You can also use this collection [https://ipfs.io/QmdMgy9N1qCMmbYrQJQyYvyuC1TqiuATMbPgBS3wRmMVuX](https://ipfs.io/QmdMgy9N1qCMmbYrQJQyYvyuC1TqiuATMbPgBS3wRmMVuX)
+You can also use this collection [https://https://ipfs.io/ipfs/QmdMgy9N1qCMmbYrQJQyYvyuC1TqiuATMbPgBS3wRmMVuX)
 
 
 Requirements
